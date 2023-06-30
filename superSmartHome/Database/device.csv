@@ -1,0 +1,48 @@
+deviceId	deviceName	deviceClassID	deviceSpecification	manuID	familyID	isDeleted
+d001	Motion sensor light	c002	Lyyt 6 LED Motion Sensor Light - SENSOR-L.	m001	f001	0
+d002	Digital Temperature Humidity Sensor	c001	Digital Temperature Humidity Sensor Thermometer LCD Hygrometer WIFI Smart Home.	m001	f001	0
+d003	security accessories door sensor	c003	Panasonic home security accessories door sensor.	m002	f002	0
+d004	Wireless Temperature & Humidity Sensor	c001	Youshiko YC9315 Wireless Temperature & Humidity Sensor for Weather Station.	m001	f003	0
+d005	Door/security sensor	c003	Optex PIR door/security sensor OP-07A.	m002	f003	0
+d006	Motion Sensor Closet Night Lights	c002	10-30 LED Motion Sensor Closet Night Lights Rechargeable Cabinet Kitchen Lights.	m001	f003	0
+d007	LED Motion Sensor	c002	LED Motion Sensor Under Cabinet Closet Night Lights Rechargeable Kitchen Lamp US	m002	f004	0
+d008	Light 3-Color Motion Sensor	c002	Upgraded 138 LED Closet Light 3-Color Motion Sensor Wireless USB Rechargeable	m002	f005	0
+d009	Window Door Magnetic Sensor	c003	10X WIRELESS Home Window Door Burglar Security ALARM System Magnetic Sensor	m002	f006	0
+d010	Digital Temperature and Humidity Sensor	c001	Digital Temperature and Humidity Sensor For Arduino AM2302 DHT11 DHT22 AM2302B.	m001	f006	0
+d011	10 LED Motion Sensor	c002	10 LED Motion Sensor Closet Lights Cordless Under Cabinet Lightening Bar 10-Pack.	m001	f007	0
+d012	10-30 LED Motion Sensor	c002	10-30 LED Motion Sensor Closet Lights Wireless Night Under Cabinet Kitchen Lamps.	m001	f008	0
+d013	Wireless Remote Control Door/Window Sensor	c003	KERUI Wireless Remote Control Door/Window Sensor Home Security Burglar Alarm.	m001	f008	0
+d014	Window alarm home	c003	5 pack Warning Camera Security sticker window alarm home business surveillance.	m001	f009	0
+d015	Wireless Rechargeable LED Motion Sensor	c002	Wireless Rechargeable LED Motion Sensor Under Cabinet Night Lights Kitchen Lamps.	m001	f009	0
+d016	Digital LCD Temperature Humidity Sensor	c001	Baldr Digital LCD Indoor Outdoor Temperature Humidity Touch Screen with Sensor.	m001	f010	0
+d017	 AM2302 Digital Temperature Humidity Sensor	c001	DHT22 AM2302 Digital Temperature Humidity Sensor Replace SHT11 SHT15 Arduino USA.	m002	f011	0
+d018	Wireless Window/Door Sensor	c003	Wireless Window/Door Open 52 Chime Entry Security Alarm Doorbell Magnetic Sensor.	m002	f011	0
+d019	BOSCH Temperature & Humidity Pressure Sensor	c001	1pcs CJMCU-680 BME680 BOSCH Temperature & Humidity Pressure Sensor.	m002	f012	0
+d020	Motion sensor light	c002	Lyyt 6 LED Motion Sensor Light - SENSOR-L.	m002	f012	0
+d021	10-30 LED Motion Sensor	c002	10-30 LED Motion Sensor Closet Lights Wireless Night Under Cabinet Kitchen Lamps.	m002	f013	0
+d022	BOSCH Temperature & Humidity Pressure Sensor	c001	1pcs CJMCU-680 BME680 BOSCH Temperature & Humidity Pressure Sensor.	m001	f014	0
+d023	Wireless Remote Control Door/Window Sensor	c003	KERUI Wireless Remote Control Door/Window Sensor Home Security Burglar Alarm.	m001	f014	0
+d024	10-30 LED Motion Sensor	c002	10-30 LED Motion Sensor Closet Lights Wireless Night Under Cabinet Kitchen Lamps.	m001	f014	0
+d025	security accessories door sensor	c003	Panasonic home security accessories door sensor.	m002	f014	0
+d026	security accessories door sensor	c003	Panasonic home security accessories door sensor.	m001	f015	0
+d027	Window alarm home	c003	5 pack Warning Camera Security sticker window alarm home business surveillance.	m002	f015	0
+d028	LED Motion Sensor	c002	LED Motion Sensor Under Cabinet Closet Night Lights Rechargeable Kitchen Lamp US	m001	f016	0
+d029	Wireless Remote Control Door/Window Sensor	c003	KERUI Wireless Remote Control Door/Window Sensor Home Security Burglar Alarm.	m002	f017	0
+d030	security accessories door sensor	c003	Panasonic home security accessories door sensor.	m001	f017	0
+d031	10 LED Motion Sensor	c002	10 LED Motion Sensor Closet Lights Cordless Under Cabinet Lightening Bar 10-Pack.	m002	f018	0
+d032	LED Motion Sensor	c002	LED Motion Sensor Under Cabinet Closet Night Lights Rechargeable Kitchen Lamp US	m002	f019	0
+d033	Motion sensor light	c002	Lyyt 6 LED Motion Sensor Light - SENSOR-L.	m002	f019	0
+d034	Window alarm home	c003	5 pack Warning Camera Security sticker window alarm home business surveillance.	m002	f020	0
+d035	BOSCH Temperature & Humidity Pressure Sensor	c001	1pcs CJMCU-680 BME680 BOSCH Temperature & Humidity Pressure Sensor.	m002	f021	0
+d036	Digital Temperature Humidity Sensor	c001	Digital Temperature Humidity Sensor Thermometer LCD Hygrometer WIFI Smart Home.	m001	f021	0
+d037	Window alarm home	c003	5 pack Warning Camera Security sticker window alarm home business surveillance.	m001	f022	0
+d038	Wireless Window/Door Sensor	c003	Wireless Window/Door Open 52 Chime Entry Security Alarm Doorbell Magnetic Sensor.	m001	f023	0
+d039	Wireless Rechargeable LED Motion Sensor	c002	Wireless Rechargeable LED Motion Sensor Under Cabinet Night Lights Kitchen Lamps.	m002	f024	0
+d040	BOSCH Temperature & Humidity Pressure Sensor	c001	1pcs CJMCU-680 BME680 BOSCH Temperature & Humidity Pressure Sensor.	m001	f025	0
+d041	Wireless Window/Door Sensor	c003	Wireless Window/Door Open 52 Chime Entry Security Alarm Doorbell Magnetic Sensor.	m001	f026	0
+d042	Digital Temperature Humidity Sensor	c001	Digital Temperature Humidity Sensor Thermometer LCD Hygrometer WIFI Smart Home.	m001	f026	0
+d043	Wireless Window/Door Sensor	c003	Wireless Window/Door Open 52 Chime Entry Security Alarm Doorbell Magnetic Sensor.	m002	f026	0
+d044	Wireless Window/Door Sensor	c003	Wireless Window/Door Open 52 Chime Entry Security Alarm Doorbell Magnetic Sensor.	m001	f027	0
+d045	LED Motion Sensor	c002	LED Motion Sensor Under Cabinet Closet Night Lights Rechargeable Kitchen Lamp US	m001	f028	0
+d046	BOSCH Temperature & Humidity Pressure Sensor	c001	1pcs CJMCU-680 BME680 BOSCH Temperature & Humidity Pressure Sensor.	m001	f029	0
+d050	Motion sensor light	c002	Lyyt 6 LED Motion Sensor Light - SENSOR-L.	m001	f030	0
