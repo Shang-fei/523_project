@@ -3,10 +3,10 @@ import java.awt.EventQueue;
 public class Main {
 
 	static String driver = "com.mysql.cj.jdbc.Driver";
-	
-	public static final String URL = "jdbc:mysql://127.0.0.1:3306/shujuku2";
-    public static final String USER = "wendetaer";
-    public static final String PASSWORD = "123456qq";
+
+	public static final String URL = "jdbc:mysql://rm-cn-zxu3aaxo4000tono.rwlb.rds.aliyuncs.com/shujuku2";
+	public static final String USER = "wendetaer";
+	public static final String PASSWORD = "123456789Qq!!";
 	
 	public static void main(String[] args) {
 		
